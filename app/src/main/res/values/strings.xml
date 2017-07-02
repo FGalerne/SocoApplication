@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SocoApplication</string>
+
+    <string name="login">Your login</string>
+    <string name="password">Your password</string>
+    <string name="connect">Connect</string>
+    <string name="register">Create an account</string>
+    
+    <string name="btnregister">Register</string>
+    <string name="username">Your name</string>
+    <string name="firstname">Your firstname</string>
+    <string name="employee_number">Employee number</string>
+    <string name="confirm_password">Confirmation password</string>
+    <string name="email">Your email</string>
+
+    <string name="ert">ERT</string>
+    <string name="erp">ERP</string>
+    <string name="ext">Outside installation</string>
+    
+</resources>

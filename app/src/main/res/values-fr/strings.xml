@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="login">Votre identifiant</string>
+    <string name="password">Votre mot de passe</string>
+    <string name="connect">Se connecter</string>
+    <string name="register">Créer un compte</string>
+
+    <string name="btnregister">Créer</string>
+    <string name="username">Votre nom</string>
+    <string name="firstname">Votre prénom</string>
+    <string name="employee_number">N° d\'ordre</string>
+    <string name="confirm_password">Confirmer le mot de passe</string>
+    <string name="email">Votre email</string>
+
+    <string name="ert">ERT</string>
+    <string name="erp">ERP</string>
+    <string name="ext">Installation extérieur</string>
+</resources>
