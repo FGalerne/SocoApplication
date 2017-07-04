@@ -21,7 +21,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/login"
-            android:id="@+id/login"
+            android:id="@+id/etLogin"
             android:textColor="@color/input"
             android:textColorHint="@color/input"
             />
@@ -40,7 +40,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/password"
-            android:id="@+id/password"
+            android:id="@+id/etPassword"
             android:textColor="@color/input"
             android:textColorHint="@color/input"/>
     </android.support.design.widget.TextInputLayout>
@@ -48,7 +48,7 @@
     <Button
         android:layout_width="150dp"
         android:layout_height="wrap_content"
-        android:id="@+id/connect"
+        android:id="@+id/bConnect"
         android:text="@string/connect"/>
 
     <TextView
@@ -56,7 +56,7 @@
         android:layout_height="wrap_content"
         android:textAlignment="center"
         android:text="@string/register"
-        android:id="@+id/register"
+        android:id="@+id/tvRegister"
         android:textColor="@color/input"/>
 
 
