@@ -7,5 +7,7 @@
 /build
 /captures
 .externalNativeBuild
-Supprimerait libs/
+libs/
 Supprimerait src/main/res/drawable/
+.idea
+Server
