@@ -7,3 +7,5 @@
 /build
 /captures
 .externalNativeBuild
+Supprimerait libs/
+Supprimerait src/main/res/drawable/
